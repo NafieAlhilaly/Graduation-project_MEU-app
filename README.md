@@ -7,5 +7,5 @@ then collect all sections for one subject and compare them against each others.
 
 it can read one folder(assuming that folder contain all of your excel files for subjects' sections) or multiple folders.
 
-from these simple reports we can later generate more reports to measure performance
+from these simple reports we can generate more reports to measure performance
 for entire College, Department and even an entire University like comparing a subject to others or its self over period of years.
