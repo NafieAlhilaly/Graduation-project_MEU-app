@@ -1,4 +1,0 @@
-in order for Arabic report to work you need to add the Arabic font to /MEU/pt-bold-heading.ttf
-
-التقارير العربية تحتاج ملف الخط لكي تعمل, ضع ملف الخط في 
-/MEU/pt-bold-heading.ttf
