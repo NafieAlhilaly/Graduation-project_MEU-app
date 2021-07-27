@@ -1,13 +1,11 @@
-# Project Name
-> Outline a brief description of your project.
+# KKU Graduation Project
+> Read students assessments files and analyze it to measure and evaluate education.
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -16,73 +14,70 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Read multiple assessments sheets files and analyze it and then generate reports for every section and then analyze all the sections grouped 
+  together for entire course analysis/report.
+- The idea came to help teachers at KKU(CS college) to automate this process instead of analyzing assessment sheets files
+  with sheets apps.
+
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- First version was written with Java.
+- then I used Python for better data manipulation and powerful data analysis libraries.
+- currently im working to make it as a web app.
 
 
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Automated the process of reading and analyzing assessments files.
+- Reduce measuring error due to the automation.
 
+# screenshots
+## Java version Screenshots(first version)
+<img src="./img/jv_ui1.jpg" alt="drawing" width="400"/> <img src="./img/jv_ui2.PNG" alt="drawing" width="400"/>
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+<img src="./img/jv_ui3.PNG" alt="drawing" width="400"/> <img src="./img/jv_ui4.PNG" alt="drawing" width="400"/>
 
+## reports preduced by Java version
+### Section report(one section analyzing)
+![Example screenshot](./img/java_report1.PNG)
+### course report (all section compare)
+![Example screenshot](./img/java_report2.PNG)
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+### Python version screenshots
+<img src="./img/py_ui1.jpg" alt="drawing" width="400"/>
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+## reports preduced by python version
+### Section report(one section analyzing)
+![Example screenshot](./img/python_report1.jpg)
+### course report (all section compare)
+![Example screenshot](./img/python_report2.jpg)
 
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
+# screenshot from the dashboard im currently working on 
+![Example screenshot](./img/dash1.jpg)
+![Example screenshot](./img/dash2.jpg)
+![Example screenshot](./img/dash3.jpg)
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _in progress_ to make it a web app and provide an interactive dashboard to give better insight for the process of measuring and evaluating.
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+- Adding interactive dashboard
+- Add courses compare future to compare its courses performance either with each other or over period of time.
 
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
-
+- Move the project completely to a web app to reach wider audience.
+- Add interactive dashboards
+- Integrate sign in/sign up to allow users to creat and analyze there assessments files.
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
+- This project was inspired and supervised by Dr. Talal Qaid.
+- Java version was written by [Nafie Alhilaly](https://www.linkedin.com/in/nafie-alhilaly) and [Tarek Barakat](https://www.linkedin.com/in/tarek-barakat-aa211516b/).
+- Python version was written by [Nafie Alhilaly](https://www.linkedin.com/in/nafie-alhilaly).
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [Nafie Alhilaly](https://www.linkedin.com/in/nafie-alhilaly) - feel free to contact me!
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
