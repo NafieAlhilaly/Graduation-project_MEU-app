@@ -9,3 +9,6 @@ it can read one folder(assuming that folder contain all of your excel files for 
 
 from these simple reports we can generate more reports to measure performance
 for entire College, Department and even an entire University like comparing a subject to others or its self over period of years.
+
+
+please consider checking on the app, and give me your feedback because it will help me improve, thank you!
