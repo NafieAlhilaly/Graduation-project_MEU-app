@@ -59,7 +59,7 @@
 
 
 ## Project Status
-Project is: _in progress_ to make it a web app and provide an interactive dashboard to give better insight for the process of measuring and evaluating.
+Project is: now a beta version is live on https://measuring-and-evaluating-app.herokuapp.com/
 
 
 ## Room for Improvement
